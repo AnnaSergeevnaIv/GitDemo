@@ -14,6 +14,7 @@
 		B65345DF28353CBD00CAED25 /* GitDemo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B65345DD28353CBD00CAED25 /* GitDemo.xcdatamodeld */; };
 		B65345E128353CBD00CAED25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B65345E028353CBD00CAED25 /* Assets.xcassets */; };
 		B65345E428353CBD00CAED25 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B65345E228353CBD00CAED25 /* LaunchScreen.storyboard */; };
+		B65FCFEE2847A44100625EEE /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = B65FCFED2847A44100625EEE /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B65345E028353CBD00CAED25 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B65345E328353CBD00CAED25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B65345E528353CBD00CAED25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B65FCFED2847A44100625EEE /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				B65345E228353CBD00CAED25 /* LaunchScreen.storyboard */,
 				B65345E528353CBD00CAED25 /* Info.plist */,
 				B65345DD28353CBD00CAED25 /* GitDemo.xcdatamodeld */,
+				B65FCFED2847A44100625EEE /* .gitignore */,
 			);
 			path = GitDemo;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B65FCFEE2847A44100625EEE /* .gitignore in Resources */,
 				B65345E428353CBD00CAED25 /* LaunchScreen.storyboard in Resources */,
 				B65345E128353CBD00CAED25 /* Assets.xcassets in Resources */,
 				B65345DC28353CBD00CAED25 /* Main.storyboard in Resources */,
